@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bon-de-mon/static/css/main.61d7d0fa.chunk.css",
+    "main.js": "/bon-de-mon/static/js/main.d4a9eef4.chunk.js",
+    "main.js.map": "/bon-de-mon/static/js/main.d4a9eef4.chunk.js.map",
+    "runtime-main.js": "/bon-de-mon/static/js/runtime-main.552edfbc.js",
+    "runtime-main.js.map": "/bon-de-mon/static/js/runtime-main.552edfbc.js.map",
+    "static/js/2.03cb100a.chunk.js": "/bon-de-mon/static/js/2.03cb100a.chunk.js",
+    "static/js/2.03cb100a.chunk.js.map": "/bon-de-mon/static/js/2.03cb100a.chunk.js.map",
+    "index.html": "/bon-de-mon/index.html",
+    "static/css/main.61d7d0fa.chunk.css.map": "/bon-de-mon/static/css/main.61d7d0fa.chunk.css.map",
+    "static/js/2.03cb100a.chunk.js.LICENSE.txt": "/bon-de-mon/static/js/2.03cb100a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.552edfbc.js",
+    "static/js/2.03cb100a.chunk.js",
+    "static/css/main.61d7d0fa.chunk.css",
+    "static/js/main.d4a9eef4.chunk.js"
+  ]
+}
