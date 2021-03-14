@@ -7,7 +7,8 @@
 }
 
 body {
-  font-family: "Mulish", sans-serif;
+  font-family: "Lato", sans-serif;
+  cursor: none;
 }
 
 ul,
@@ -39,4 +40,19 @@ input::-webkit-inner-spin-button {
 a {
   text-decoration: none;
   color: inherit;
+}
+
+.cursor {
+  pointer-events: none;
+}
+
+.cursor__ball {
+  position: fixed;
+  top: 0;
+  left: 0;
+  mix-blend-mode: difference;
+  z-index: 1000;
+}
+.cursor__ball circle {
+  fill: #f7f8fa;
 }
