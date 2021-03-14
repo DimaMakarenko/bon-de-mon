@@ -1,2 +1,0 @@
-(this["webpackJsonpbon-de-mon"]=this["webpackJsonpbon-de-mon"]||[]).push([[0],{10:function(n,e,t){"use strict";t.r(e);var c=t(0),o=t.n(c),i=t(3),s=t.n(i),r=(t(8),t(1)),d=function(){return Object(r.jsx)("div",{className:"App",children:"hii"})};s.a.render(Object(r.jsx)(o.a.StrictMode,{children:Object(r.jsx)(d,{})}),document.getElementById("root"))},8:function(n,e,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.d4a9eef4.chunk.js.map
